@@ -1,0 +1,18 @@
+2025-06-27 13:10:10 [ALERT] Seatbelt NOT detected immediately after login!
+2025-06-27 13:10:15 [ALERT] Distraction detected! (No face visible)
+2025-06-27 13:10:25 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:27 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:29 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:31 [ALERT] Distraction detected! (No face visible)
+2025-06-27 13:10:31 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:33 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:35 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:37 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:39 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:42 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:44 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:46 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:47 [ALERT] Distraction detected! (No face visible)
+2025-06-27 13:10:48 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:50 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 13:10:53 [ALERT] Drowsiness detected!

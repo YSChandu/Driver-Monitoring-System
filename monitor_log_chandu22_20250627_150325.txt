@@ -1,0 +1,78 @@
+2025-06-27 14:59:56 [ALERT] Seatbelt NOT detected immediately after login!
+2025-06-27 14:59:58 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:01 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:06 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:13 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:16 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:19 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:19 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:20 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:23 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:24 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:25 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:27 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:27 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:38 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:40 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:41 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:42 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:44 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:44 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:47 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:47 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:49 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:50 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:51 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:53 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:53 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:00:55 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:00:56 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:04 [ALERT] Seatbelt NOT detected (periodic check)!
+2025-06-27 15:01:07 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:12 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:12 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:14 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:16 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:16 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:18 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:20 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:20 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:23 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:24 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:26 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:28 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:29 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:30 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:37 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:39 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:39 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:42 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:46 [ALERT] Drowsiness detected!
+2025-06-27 15:01:47 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:49 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:50 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:01:51 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:01:53 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:04 [ALERT] Seatbelt NOT detected (periodic check)!
+2025-06-27 15:02:16 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:18 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:21 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:23 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:24 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:02:25 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:28 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:30 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:32 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:34 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:34 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:02:36 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:39 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:41 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:02:43 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:46 [ALERT] Driver's hand detected - possible distraction or activity.
+2025-06-27 15:02:48 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:02:51 [ALERT] Drowsiness detected!
+2025-06-27 15:03:01 [ALERT] Seatbelt NOT detected (periodic check)!
+2025-06-27 15:03:02 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:03:06 [ALERT] Distraction detected! (No face visible)
+2025-06-27 15:03:09 [ALERT] Distraction detected! (No face visible)

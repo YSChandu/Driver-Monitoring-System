@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+startrit/
+venv/
+ENV/
+env/
+
+# Face data and models
+known_encodings.npy
+known_names.npy
+faces/
+registered_faces/
+*.dat
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/

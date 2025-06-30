@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dashboard</title>
+    <style>
+      body {
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: #f4f6fa;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        margin: 40px auto;
+        max-width: 1100px;
+        gap: 40px;
+      }
+      .video-section {
+        flex: 2;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+        padding: 32px 24px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .video-section img {
+        width: 100%;
+        max-width: 520px;
+        border: 3px solid #333;
+        border-radius: 8px;
+        background: #222;
+      }
+      .alerts-section {
+        flex: 1;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+        padding: 32px 24px;
+        min-width: 280px;
+        max-width: 350px;
+        display: flex;
+        flex-direction: column;
+      }
+      .alerts-title {
+        font-size: 1.2em;
+        font-weight: bold;
+        margin-bottom: 18px;
+        color: #d32f2f;
+        letter-spacing: 1px;
+      }
+      #alerts {
+        font-family: "Fira Mono", monospace;
+        color: #d32f2f;
+        white-space: pre-line;
+        font-size: 1.05em;
+        min-height: 120px;
+      }
+      h1 {
+        margin-top: 0;
+        font-size: 2em;
+        color: #222;
+      }
+      h2 {
+        font-size: 1.1em;
+        color: #555;
+        margin-bottom: 24px;
+      }
+      a {
+        color: #1976d2;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      @media (max-width: 900px) {
+        .container {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 24px;
+        }
+        .video-section,
+        .alerts-section {
+          max-width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div style="padding: 24px 0 0 0; text-align: center">
+      <h1>Driver Monitoring System</h1>
+      <h2>Welcome, {{ username }} | <a href="/logout">Logout</a></h2>
+    </div>
+    <div class="container">
+      <div class="video-section">
+        <img src="{{ url_for('video_feed') }}" alt="Video Stream" />
+      </div>
+      <div class="alerts-section">
+        <div class="alerts-title">Alerts</div>
+        <div id="alerts"></div>
+      </div>
+    </div>
+    <script>
+      async function fetchAlerts() {
+        const res = await fetch("/alerts");
+        const text = await res.text();
+        document.getElementById("alerts").innerHTML = text;
+      }
+      setInterval(fetchAlerts, 2000);
+    </script>
+  </body>
+</html>
